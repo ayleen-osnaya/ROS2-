@@ -1,4 +1,5 @@
 # **APUNTE 1: ROS 2**
+[Ver video en YouTube](https://www.youtube.com/watch?v=dN0HZVCUmA0&t=12s)
 
 **Atajos:**
 
@@ -147,6 +148,7 @@ ros2 run turtlesim turtlesim_node
 ```
 
  **Interfaces**
+ [Ver video en YouTube](https://www.youtube.com/watch?v=puPAFd_jRF4&t=1s)
 
 **Interfaces:** el formato o molde que ocupan los msg, srv y Action.
 
