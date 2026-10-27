@@ -43,8 +43,21 @@ code .
 
 dentro de turtle_trajectory y otra vez dentro de turtle_trajectory hacemos un nuevo file llamado 
 
-turtle_generator.py
+trajectory_generator.py
 
+dentro copiaremos este codigo 
+
+
+par que funcione tenemos que cambiar nuestro setup.py 
+
+
+entry_points={
+    'console_scripts': [
+        'trajectory_generator = turtle_trajectory.trajectory_generator:main',
+    ],
+    },
+
+donde trajectory generator es el nombre del ejecutable que se muestra en consola ubuntu, turtle trajectory la carpeta que buscamos, tajectory_generator el codigo o nodo que buscamos y main la funcion a ejecutar dentro del códogo
 
 
 
