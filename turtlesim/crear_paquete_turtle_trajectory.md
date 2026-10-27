@@ -29,7 +29,7 @@ dentro encontraremos un directorio llamado turtle_trajectory donde se encontrara
 
 tambien encontraremos otros directorios y archivos como 
 
-test y resource: que podemos usar para ahcer pruebas previas 
+test y resource: que podemos usar para hacer pruebas previas 
 
 setup.cfg: que usa ros2 para saber que tipo de python usamos 
 
@@ -41,6 +41,9 @@ para poder empezar nuestro codigo entraremos a src desde visual studio con
 
 code .
 
+dentro de turtle_trajectory y otra vez dentro de turtle_trajectory hacemos un nuevo file llamado 
+
+turtle_generator.py
 
 
 
